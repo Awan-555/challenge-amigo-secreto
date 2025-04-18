@@ -27,4 +27,4 @@ En este proyecto se usa para agregar nombres a una lista y seleccionar un nombre
   - sortearAmigo(): Selecciona un nombre aleatorio de la lista
  
 ## Autor
-Adrian Castillo https://github.com/Awanopio
+Adrian Castillo https://github.com/Awan-555
